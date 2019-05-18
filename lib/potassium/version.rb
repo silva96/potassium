@@ -3,4 +3,6 @@ module Potassium
   RUBY_VERSION = "2.5.1"
   RAILS_VERSION = "~> 5.2.1"
   RUBOCOP_VERSION = "~> 0.49.1"
+  POSTGRES_VERSION = "11.3"
+  MYSQL_VERSION = "5.7"
 end
